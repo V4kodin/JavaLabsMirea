@@ -61,4 +61,4 @@ e. Метод toString(), который возвращает "Ball @ (х , у) 
 
 В подклассах Circle (круг) и Rectangle (прямоугольник) должны переопределяться абстрактные методы getArea() и getPerimeter(), чтобы обеспечить их надлежащее выполнение для конкретных экземпляров типа подкласс. Также необходимо для каждого подкласса переопределить toString(). 
 
-Решение:[num3](https://github.com/V4kodin/JavaLabsMirea/tree/main/task_3 "Практическая 3").
+Решение: [num3](https://github.com/V4kodin/JavaLabsMirea/tree/main/task_3 "Практическая 3").
