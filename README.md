@@ -43,9 +43,9 @@ d. Метод move() , позволяет переместить мяч, так 
 
 e. Метод toString(), который возвращает "Ball @ (х , у) ". 
 
-[Класс “Author”] (https://ibb.co/CvVyJ0J "Класс Author")
+[Класс “Author”] (https://ibb.co/CvVyJ0J)
 
-[Класс “Ball”] (https://ibb.co/D17sR8cJ "Класс Ball")
+[Класс “Ball”] (https://ibb.co/D17sR8cJ)
 
 
 Решение: [num2](https://github.com/V4kodin/JavaLabsMirea/tree/main/task_2 "Практическая 2").
@@ -66,7 +66,7 @@ e. Метод toString(), который возвращает "Ball @ (х , у) 
 
 В подклассах Circle (круг) и Rectangle (прямоугольник) должны переопределяться абстрактные методы getArea() и getPerimeter(), чтобы обеспечить их надлежащее выполнение для конкретных экземпляров типа подкласс. Также необходимо для каждого подкласса переопределить toString(). 
 
-[UML диаграмма] (https://ibb.co/SsVcz8fJ "UML диаграмма")
+[UML диаграмма] (https://ibb.co/SsVcz8fJ)
 
 Решение:[num3](https://github.com/V4kodin/JavaLabsMirea/tree/main/task_3 "Практическая 3").
 
